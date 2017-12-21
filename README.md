@@ -2,5 +2,9 @@
 
 This is an Rollback of the Project.
 Ive tried to recover stuff as good as i coud.
-Have a look at DEPENDENCIES to check the Boxel & Boxel-Client repos.
-They Contain the latest versions i coud find.
+
+https://github.com/Draktir/Boxel-client
+https://github.com/Mast3rPlan/Boxel
+
+are the new Repos of the Dependencies
+They Contain the latest versions i coud find, maybe they will receive some Fixes by me.
