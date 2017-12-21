@@ -92,6 +92,11 @@ p {
 
 
 
+.row img  {
+  margin: 0px 0px 0px 0px;
+}
+
+
 @media only screen and (min-width:1020px){
    /*.article {  max-width:740px}
 /*    body { font-size: 21px;}*/
@@ -222,7 +227,7 @@ h1, h2, h3 {
     .container {
       padding:30px;
     }
-
+    
     .background {
        height: 40vh !important;
    }
@@ -233,7 +238,7 @@ h1, h2, h3 {
     h1 {
         font-size: 1.75em;
     }
-
+    
 .paragraphsmall {
     font-size: 1em;
     margin-top: .5em;
@@ -264,7 +269,7 @@ h1, h2, h3 {
    }
     p {
        font-size: 1em;
-   }
+   }    
     h1 {
         font-size: 1.75em;
     }
@@ -295,3 +300,4 @@ h1, h2, h3 {
 @media (min-width: 1200px) {
 
 }
+
